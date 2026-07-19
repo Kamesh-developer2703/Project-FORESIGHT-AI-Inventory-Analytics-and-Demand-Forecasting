@@ -1,0 +1,4 @@
+Product_Category,Total_Sales,Price,Revenue,Average_Daily_Demand,Lead_Time,Current_Stock,Reorder_Point,Safety_Stock,EOQ,Inventory_Status
+Beauty,771,184.05537459283389,143515,2.11,7,193,14.77,6.33,124.11,Over Stock
+Clothing,894,174.28774928774928,155580,2.45,7,224,17.15,7.35,133.73,Over Stock
+Electronics,849,181.90058479532163,156905,2.33,7,212,16.31,6.99,130.42,Over Stock
